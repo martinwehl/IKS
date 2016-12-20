@@ -7,7 +7,7 @@ if (window.Framer) {window.Framer.Defaults.DeviceView = {"deviceScale":0.25,"sel
 }
 if (window.Framer) {window.Framer.Defaults.DeviceComponent = {"deviceScale":0.25,"selectedHand":"","deviceType":"custom","contentScale":1,"orientation":0};
 }
-window.FramerStudioInfo = {"deviceImagesUrl":"\/_server\/resources\/DeviceImages","documentTitle":"fuck.framer"};
+window.FramerStudioInfo = {"deviceImagesUrl":"\/_server\/resources\/DeviceImages","documentTitle":"IKS.framer"};
 
 Framer.Device = new Framer.DeviceView();
 Framer.Device.setupContext();
